@@ -1,0 +1,1 @@
+<iframe width="100%" scrolling="yes" allowtransparency="true" frameborder="0" src="https://cryptopanic.com/widgets/news/?bg_color=FFFFFFf&amp;font_family=serif&amp;header_bg_color=D1D7E0&amp;header_text_color=000000&amp;link_color=140909&amp;news_feed=trending&amp;posts_limit=10&amp;text_color=FFFFFFf&amp;title=Latest%20Crypto%20News" height="458px"></iframe>
